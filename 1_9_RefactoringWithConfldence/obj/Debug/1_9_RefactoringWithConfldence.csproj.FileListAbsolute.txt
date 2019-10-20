@@ -1,0 +1,6 @@
+C:\Users\TNykuka\source\repos\1_9_RefactoringWithConfldence\1_9_RefactoringWithConfldence\bin\Debug\1_9_RefactoringWithConfldence.exe.config
+C:\Users\TNykuka\source\repos\1_9_RefactoringWithConfldence\1_9_RefactoringWithConfldence\bin\Debug\1_9_RefactoringWithConfldence.exe
+C:\Users\TNykuka\source\repos\1_9_RefactoringWithConfldence\1_9_RefactoringWithConfldence\bin\Debug\1_9_RefactoringWithConfldence.pdb
+C:\Users\TNykuka\source\repos\1_9_RefactoringWithConfldence\1_9_RefactoringWithConfldence\obj\Debug\1_9_RefactoringWithConfldence.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\1_9_RefactoringWithConfldence\1_9_RefactoringWithConfldence\obj\Debug\1_9_RefactoringWithConfldence.exe
+C:\Users\TNykuka\source\repos\1_9_RefactoringWithConfldence\1_9_RefactoringWithConfldence\obj\Debug\1_9_RefactoringWithConfldence.pdb
